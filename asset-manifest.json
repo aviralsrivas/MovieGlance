@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieGlance/static/css/main.79deb22b.css",
+    "main.js": "/MovieGlance/static/js/main.17c4bcdb.js",
+    "static/js/787.42aa67d0.chunk.js": "/MovieGlance/static/js/787.42aa67d0.chunk.js",
+    "index.html": "/MovieGlance/index.html",
+    "main.79deb22b.css.map": "/MovieGlance/static/css/main.79deb22b.css.map",
+    "main.17c4bcdb.js.map": "/MovieGlance/static/js/main.17c4bcdb.js.map",
+    "787.42aa67d0.chunk.js.map": "/MovieGlance/static/js/787.42aa67d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79deb22b.css",
+    "static/js/main.17c4bcdb.js"
+  ]
+}
