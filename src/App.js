@@ -14,7 +14,7 @@ function App() {
                 <Route index element={<Home />}></Route>
                 <Route path="movie/:id" element={<Movie />}></Route>
                 <Route path="movies/:type" element={<MovieList />}></Route>
-                <Route path="/*" element={<h1>Click on moviegalnce icon to see...🍿</h1>}></Route>
+                <Route path="/*" element={<h1> ⬆️🆙 Click on movieglance icon to see...🍿</h1>}></Route>
             </Routes>
         </Router>
     </div>
